@@ -1,8 +1,6 @@
-# PRODIGY_WD_01
+# Interactive Navigation Menu
 
-##  Task 1 - Interactive Navigation Menu
 
-This project was completed as part of my Web Development Internship at Prodigy Infotech.
 
 ### Task Objective
 To create an interactive navigation menu that changes style on scroll and hover. The navigation bar remains fixed and visible on all pages.
@@ -33,4 +31,7 @@ To create an interactive navigation menu that changes style on scroll and hover.
 
 ---
 
-Internship Task Submission – Prodigy Infotech
+## Live Site:
+https://janhavipatharvat.github.io/workshop-registration-navbar/
+
+
